@@ -11,7 +11,7 @@ function Portfolio() {
   return (
     <div>
        <header>
-        <h1 class="head">Praneeth</h1>
+        <h1 class="head">Praneeth Kotha</h1>
         <Header />
       </header>
       <main>
